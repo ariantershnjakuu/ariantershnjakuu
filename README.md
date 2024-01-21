@@ -42,8 +42,8 @@
 <br/>
 
 <a href="https://github.com/ariantershnjakuu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ariantershnjakuu&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariantershnjakuu&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ariantershnjakuu&theme=black&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariantershnjakuu&theme=black&layout=compact" />
 </a>
 
 <br/>
