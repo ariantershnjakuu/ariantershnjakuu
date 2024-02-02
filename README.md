@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💻   Frontend Developer with 2+ year of industry experience.
+- 💻   Frontend Developer with 2+ years of industry experience.
 - 🎓   Holds a degree in Computer Science and Mathematics.
 - 💼   Currently contributing as a Frontend Developer at Gjirafa, Inc.
 - 🌐   Specialized in exploring and implementing cutting-edge technologies for web development.
